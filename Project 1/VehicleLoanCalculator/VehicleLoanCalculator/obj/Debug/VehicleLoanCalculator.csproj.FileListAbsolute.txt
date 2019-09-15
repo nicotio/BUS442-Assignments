@@ -1,0 +1,50 @@
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+c:\users\nstio\source\repos\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\nstio\Downloads\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\Nico\Desktop\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\nicot\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.MainForm.resources
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\BUS 442\Project 1\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.csproj.CoreCompileInputs.cache
